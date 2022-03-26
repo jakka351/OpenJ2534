@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/57064943/160245875-8b6e3792-d1e6-4549-9191-814576d87a21.png)
-                                                                                   
+![image](https://user-images.githubusercontent.com/57064943/160246484-e34a843d-f772-4e69-9b98-9f2815dd6848.png)                                                
                                                                                    
 # OpenJ2534  
 Open (and Closed) Source J2534 Resources for Automotive Diagnostics, Reprogramming &amp; Tuning   
