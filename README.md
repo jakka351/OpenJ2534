@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/57064943/160246579-974bd701-993d-4f3b-b438-1af66ab9327c.png)
 
-Open (and Closed) Source J2534 Resources for Automotive Diagnostics, Reprogramming &amp; Tuning   
+`Open (and Closed) Source J2534 Resources for Automotive Diagnostics, Reprogramming &amp; Tuning`
 
 ## About
   ### SAE J2534 Protocol
