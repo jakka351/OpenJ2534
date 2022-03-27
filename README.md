@@ -31,6 +31,8 @@ Vehicle Communication Interfaces
        [`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3) 
        
        [`Mazda IDS python implementation`](https://github.com/diorcety/mazda3-ids)  
+       [`Caesar Suite - Daimler Chrylser`](https://github.com/jglim/CaesarSuite)  
+         
   ### Tuning Software
    #### ECU Specific  
    [`PQ Flasher`](https://github.com/pd0wm/pq-flasher)  
