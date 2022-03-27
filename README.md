@@ -29,9 +29,11 @@ Vehicle Communication Interfaces
    ![image](https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png)  
    `Mitsubishi Diagnostic Software`  
        [`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3) 
+       
+       [`Mazda IDS python implementation`](https://github.com/diorcety/mazda3-ids)  
   ### Tuning Software
    #### ECU Specific  
-   
+   [`MSS6x Flasher`](https://github.com/terraphantm/MSS6x-Flasher)  
    [![image](https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png)` — PCM Tuning Technology`](https://pcmtec.com)
    #### Generic Tuning Software  
   ### PassThru
