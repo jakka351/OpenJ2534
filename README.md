@@ -38,6 +38,14 @@ Vehicle Communication Interfaces
   ### ELM/OBD Software 
   [`DDT4ALL`](https://github.com/cedricp/ddt4all)  
   
+  
+  ## Open Source Libraries
+   ### Windows
+   ### Linux
+   ### MacOS
+   
+  ## News, Alerts, Information
+  
 http://drewtech.com/downloads/#OtherSupportApplications
 http://www.drewtech.com/customers/diagaftmkt.html
 http://www.drewtech.com/support/passthru.html
