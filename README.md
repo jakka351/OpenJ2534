@@ -20,7 +20,8 @@ Vehicle Communication Interfaces
 ## Software
   
   ### Drivers
-  VCI Manager  
+  VCI Manager    
+  [`Bosch J2534 PassThru Software`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)  
   
   ### Diagnostic
    #### OEM Software Paid 
