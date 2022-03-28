@@ -20,17 +20,26 @@ Vehicle Communication Interfaces
 ## Software
   
   ### Drivers
+  VCI Manager  
+  
   ### Diagnostic
-   #### OEM Software   
+   #### OEM Software Paid 
    ![image](https://user-images.githubusercontent.com/57064943/160247583-dfb5eb54-70f2-415b-810b-6da187de90cc.png)  
+   [`Ford IDS, FDRS`](https://www.fordtechservice.dealerconnection.com/vdirs/wds/diagnosticsites/vcmdvd/mcs/idssoftware.asp)    
    
+   #### Aftermarket Paid
+   [`ESI-Tronic 2.0 Online`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/esitronic-diagnostic-software/esi-2-0-online/)  
 
-   #### AEM Software c
+   #### Aftermarket Free 
    ![image](https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png)[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)  
    [`Mazda IDS python implementation`](https://github.com/diorcety/mazda3-ids)  
    [`Caesar Suite - Daimler Chrylser`](https://github.com/jglim/CaesarSuite)  
    [`Toyota Techinfo RAMN`](https://github.com/ToyotaInfoTech/RAMN)
    [`VW KW1281 Protocol Test Tool`](https://github.com/gmenounos/kw1281test)
+   [`RND-ASH - Ecu Diagnostics Rust Crate`](https://github.com/rnd-ash/ecu_diagnostics)  
+   [`Tractor Hacking - Polycan`](https://github.com/TractorHacking/PolyCAN)  
+   [`RND-ASH - openvehicledialog`](https://github.com/rnd-ash/OpenVehicleDiag)  
+   
    
          
   ### Tuning Software
@@ -38,6 +47,10 @@ Vehicle Communication Interfaces
    [`PQ Flasher`](https://github.com/pd0wm/pq-flasher)  
    [`MSS6x Flasher`](https://github.com/terraphantm/MSS6x-Flasher)  
    [`Volvo CEM Cracker`](https://github.com/vtl/volvo-cem-cracker)  
+   [`Trionic Flasher`](https://github.com/mattiasclaesson/Trionic) 
+   [`UnlockECU - JGLIM`](https://github.com/jglim/UnlockECU)  
+   [`LibreTuner - Open source engine tuning software for Mazda platforms`](https://github.com/LibreTuner/LibreTuner)  
+   
    
    
    [![image](https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png)` — PCM Tuning Technology`](https://pcmtec.com)
@@ -55,10 +68,14 @@ Vehicle Communication Interfaces
   ### Firmware  
   [`Honda-CL7-CL9-Odometer-Program`](https://github.com/bmgjet/Honda-CL7-CL9-Odometer-Program)  
   [`VBF Decoder`](https://github.com/consp/vbfdecode)  
+  [`VBF Parser`](https://github.com/UCDHIUS/vbf_parser)  
   [`VW Cluster reverse engineering`](https://github.com/gmenounos/vwcluster)  
   [`UPA CAN Flash`](https://github.com/iliayar/UPA_CAN_FLASH)  
   [`UDS Diagnostic Tool for Flashing Bootloader`](https://github.com/ParkingVehicle/DiagnosticTool) 
-  [`UDS Bootloader Tool`](https://github.com/SummerFalls/UDS_S32K144_Bootloader)
+  [`UDS Bootloader Tool`](https://github.com/SummerFalls/UDS_S32K144_Bootloader)  
+  [`LS1 Checksum Correction`](https://github.com/jcmnn/LS1ChecksumCorrect)  
+  
+  
   
   
   
