@@ -4,6 +4,8 @@
 
 ## About
   ### SAE J2534 Protocol
+  [`Drewtech J2534 Introduction`](http://www.drewtech.com/services/oeservices.html)    
+  [`Drewtech J2534 Introduction II`](http://www.drewtech.com/customers/diagaftmkt.html)    
   ### PassThru Programnming
   ### Right to Repair laws
     #### Europe
@@ -12,21 +14,59 @@
     
 ## Hardware
 Vehicle Communication Interfaces  
+[`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
+
+
   ### Manufacturers
    #### Aftermarket
    #### OEM 
   ### PC Hardware
+  
+## OEM Portals
+[`Alfa Romeo`](https://www.technicalinformation.fiat.com)
+[`BMW Group`](https://aos.bmwgroup.com/)
+[`Peugot`](http://public.servicebox.peugeot.com/pages/index.jsp)
+[`Chrysler Portal`](http://www.techauthority.com)
+[`Citroen`](http://service.citroen.com/pages/index.jsp)
+[`Fiat Portal`](https://www.technicalinformation.fiat.com)
+[`Ford Portal`](https://www.fordserviceinfo.com)
+[`Honda Portal`](http://www.techinfo.honda-eu.com/)
+[`Hyundai Portal`](http://service.hyundai-motor.co)
+[`Jaguar Portal`](http://www.jaguartechinfo.com")
+[`Kia Portal`](http://www.kia-hotline.com/)
+[`Jaguar Land Rover`](https://topix.landrover.jlrext.com/topix/vehicle/lookupForm)
+[`Lexus Portal`](https://www.lexus-tech.eu/default.aspx)
+[`Mazda Europe Portal`](https://mapps.mazdaeur.com/mum)
+[`Daimler Chrysler Portal`](https://xentry-shop.mercedes-benz.com/daimlerDiagnosisShop/home?0)
+[`Mitsubishi Europe Portal`](http://www.mitsubishitechinfo.eu)
+[`Nissan Portal`](https://eu.nissan.biz/auth/Login?GAREASONCODE=-1&GARESOURCEID=DHJEW4885903&GAURI=http://eu.nissan.biz/&Reason=-1&APPID=DHJEW4885903&URI=http://eu.nissan.biz/)
+[`Porsche Portal`](https://techinfo2.porsche.com/PAGInfosystem/VFModuleManager?Type=GVOStart)
+[`Renault Portal`](http://www.infotech.renault.com/fo/accueil.action)
+[`Saab Portal`](https://tis.saabparts.com/)
+[`Seat portal`](https://erwin.seat.com)
+[`Skoda Portal`](https://erwin.skoda-auto.cz/erwin/showHome.do)
+[`Smart Portal`](http://www.service-and-parts.net)
+[`Suzuki Portal`](http://serviceportal.suzuki.de/suzuki/viewStart.do;jsessionid=8C664188776F89C7D1BFC711982C3A3C)
+[`Toyota Europe Portal`](https://www.toyota-tech.eu/)
+[`Volvo Portal`](https://tis.volvocars.biz/tis/main.do)
+[`Volkswagen Portal`](https://erwin.volkswagen.de/erwin/showHome.do)
+
 
 ## Software
-  
-  ### Drivers
-  VCI Manager    
-  [`Bosch J2534 PassThru Software`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)  
-  
+  ### Drivers  
+  [`Mongoose Pro J2534 Drivers`](http://www.drewtech.com/technician/products/mongoose.html)    
+  [`Bosch J2534 PassThru Software`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)
+  [`Bosch Euro5 PassThru Downloads`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)
+  [`Bosch PassThru Version 2.30.1 For KTS 560 / 590 and KTS 960 / 980 / 995.`](http://download.esitronic.de/KTSdownload/kts-setups/Setup_Bosch_Passthru_v2.30.1.exe)
+  [`Bosch PassThru Version 1.18.5 For KTS 530 / 540 / 570, KTS 840 / 870 / 890 and KTS 940 /970 / 990.`](http://download.esitronic.de/KTSdownload/kts-setups/Setup_Bosch_Passthru_v1.18.5.exe)  
+  [`RP1210	RP1210A DLL for use with existing Heavy Truck RP1210 applications for CarDAQ-Plus and CarDAQ-M only. TVIT driver above includes RP1210 drivers.`](http://www.drewtech.com/downloads/RP1210_v4.3.msi)    
+  [`DLL Discovery	Sample registry code for PassThru DLL Discovery`](http://www.drewtech.com/downloads/dllconnect.zip)    
+ [`DT Tech2Win Driver 32-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x86.msi)    
+ [`DT Tech2Win Driver 64-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x64.msi)    
+   
   ### Diagnostic
    #### OEM Software Paid 
-   ![image](https://user-images.githubusercontent.com/57064943/160247583-dfb5eb54-70f2-415b-810b-6da187de90cc.png)  
-   [`Ford IDS, FDRS`](https://www.fordtechservice.dealerconnection.com/vdirs/wds/diagnosticsites/vcmdvd/mcs/idssoftware.asp)    
+   ![image](https://user-images.githubusercontent.com/57064943/160247583-dfb5eb54-70f2-415b-810b-6da187de90cc.png)[`Ford IDS, FDRS`](https://www.fordtechservice.dealerconnection.com/vdirs/wds/diagnosticsites/vcmdvd/mcs/idssoftware.asp)    
    
    #### Aftermarket Paid
    [`ESI-Tronic 2.0 Online`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/esitronic-diagnostic-software/esi-2-0-online/)  
