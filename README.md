@@ -15,6 +15,8 @@
 ## Hardware
 Vehicle Communication Interfaces  
 [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
+[`Tactrix Openport`]()
+[`Bosch KTS 560`]()
 
 
   ### Manufacturers
