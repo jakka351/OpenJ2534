@@ -15,6 +15,7 @@
 ## Hardware
 Vehicle Communication Interfaces  
 [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
+[`Tactrix Openport 2.0`](https://www.tactrix.com/)  
 
 
   ### Manufacturers
@@ -54,6 +55,7 @@ Vehicle Communication Interfaces
 
 ## Software
   ### Drivers  
+  [`Tactrix Openport J2534 dll`](https://www.tactrix.com/index.php?option=com_content&view=category&layout=blog&id=38&)  
   [`Mongoose Pro J2534 Drivers`](http://www.drewtech.com/technician/products/mongoose.html)      
   [`Bosch J2534 PassThru Software`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)  
   [`Bosch Euro5 PassThru Downloads`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)  
@@ -84,7 +86,12 @@ Vehicle Communication Interfaces
    
          
   ### Tuning Software
-   #### ECU Specific  
+   #### Verified & Supported Softwares  
+   [![image](https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png)` — PCM Tuning Technology`](https://pcmtec.com)  
+   [`Versatuner`](https://versatuner.com) - Mazda Tuning software for specific models  
+   [`HP Tuners`](https://hptuners.com) - Generic Tuning software  
+     
+   #### Open Source    
    [`PQ Flasher`](https://github.com/pd0wm/pq-flasher)      
    [`MSS6x Flasher`](https://github.com/terraphantm/MSS6x-Flasher)     
    [`Volvo CEM Cracker`](https://github.com/vtl/volvo-cem-cracker)      
@@ -93,8 +100,7 @@ Vehicle Communication Interfaces
    [`LibreTuner - Open source engine tuning software for Mazda platforms`](https://github.com/LibreTuner/LibreTuner)      
    [`PSA/Stellantis (Peugeot, Citroen, DS, Opel) Seed/Key Algorithm`](https://github.com/ludwig-v/psa-seedkey-algorithm)    
    [`NisROM Tuning Suite`](https://github.com/ababook/NisROM-Tuning-Suite)    
-   [![image](https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png)` — PCM Tuning Technology`](https://pcmtec.com)  
-   
+
    #### Generic Tuning Software    
    [`OpenSCT - Reverse Engineering SCT Flash Tools`](https://github.com/Alexia/opensct)    
    
