@@ -100,7 +100,8 @@ Vehicle Communication Interfaces
    [`UnlockECU - JGLIM`](https://github.com/jglim/UnlockECU)      
    [`LibreTuner - Open source engine tuning software for Mazda platforms`](https://github.com/LibreTuner/LibreTuner)      
    [`PSA/Stellantis (Peugeot, Citroen, DS, Opel) Seed/Key Algorithm`](https://github.com/ludwig-v/psa-seedkey-algorithm)    
-   [`NisROM Tuning Suite`](https://github.com/ababook/NisROM-Tuning-Suite)    
+   [`NisROM Tuning Suite`](https://github.com/ababook/NisROM-Tuning-Suite)      
+   [`Ferrari Me7 ROM tool`]()  
 
    #### Generic Tuning Software    
    [`OpenSCT - Reverse Engineering SCT Flash Tools`](https://github.com/Alexia/opensct)    
