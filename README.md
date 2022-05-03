@@ -5,7 +5,10 @@
    <sup>Open (and Closed) Source J2534 Resources for Diagnostics, Reprogramming & Tuning</sup>
    
 ![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
-     
+ 
+<img src="https://user-images.githubusercontent.com/57064943/166475934-eedf7dcb-8288-42bc-9171-aa53cf76c05f.png" align="right" />
+
+ 
 # [SAE J2534 Protocol](https://www.boschdiagnostics.com/j2534-faq)
 
 <p>
@@ -17,31 +20,32 @@
 ## Table of Contents
    ### Header
    ### SAE J2534
+   #### API
+   #### Libraries
 
-
-
-![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
-
-
-  
-  [`Drewtech J2534 Introduction`](http://www.drewtech.com/services/oeservices.html)    
-  [`Drewtech J2534 Introduction II`](http://www.drewtech.com/customers/diagaftmkt.html)    
-  ### PassThru Programnming
-  ### Right to Repair laws
-    #### Europe
-    #### United States
-    #### Australia, New Zealand, South Africa
-    
-## Hardware
+   ### PassThru 
+   ### Right to Repair 
+   ### Hardware
+   ##### Minimum Requirements
+   ##### Vehicle Communication Interfaces
+   ##### 
+   
+   ### Software
+   #### Passthru
+   #### Diagnostic
+   #### Reprogramming
+   #### Tuning
+   
+   ### Open Source
+   #### Firmware
+   #### 
+   
+   
+   
 Vehicle Communication Interfaces  
 [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
 [`Tactrix Openport 2.0`](https://www.tactrix.com/)  
 
-
-  ### Manufacturers
-   #### Aftermarket
-   #### OEM 
-  ### PC Hardware
 
 ![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
 
@@ -168,6 +172,10 @@ Vehicle Communication Interfaces
   [`UDS Bootloader Tool`](https://github.com/SummerFalls/UDS_S32K144_Bootloader)    
   [`LS1 Checksum Correction`](https://github.com/jcmnn/LS1ChecksumCorrect)    
   
+  
+  ![image](https://user-images.githubusercontent.com/57064943/166476326-579da2fa-e819-4eab-98b7-a1bef3746807.png)
+![image](https://user-images.githubusercontent.com/57064943/166476343-da4b2917-24bf-4da5-8807-198eda608096.png)
+
 
 <img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
