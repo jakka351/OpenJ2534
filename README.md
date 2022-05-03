@@ -1,9 +1,29 @@
-![image](https://user-images.githubusercontent.com/57064943/160246579-974bd701-993d-4f3b-b438-1af66ab9327c.png)
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
 
-   `Open (and Closed) Source J2534 Resources for Automotive Diagnostics, Reprogramming & Tuning`
+![image](https://user-images.githubusercontent.com/57064943/166444769-f7ef9aa5-df8b-4dcd-b668-a380eeda444b.png)
 
-## About
-  ### SAE J2534 Protocol
+   <sup>Open (and Closed) Source J2534 Resources for Diagnostics, Reprogramming & Tuning</sup>
+   
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+     
+# [SAE J2534 Protocol](https://www.boschdiagnostics.com/j2534-faq)
+
+<p>
+   <sup>
+      SAE J2534 is a standard for communications between a computer and a vehicle. Government regulations require all automakers provide a J2534 service to everyone in the U.S. for re-flashing emissions related controllers. If you own a SAE J2534 Pass-Thru device, you can re-flash and, in some cases, diagnose vehicles with factory functionality. <a href="http://www.drewtech.com/customers/diagaftmkt.html">Drewtech</a>
+   </sup>
+</p>
+
+## Table of Contents
+   ### Header
+   ### SAE J2534
+
+
+
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
+
+  
   [`Drewtech J2534 Introduction`](http://www.drewtech.com/services/oeservices.html)    
   [`Drewtech J2534 Introduction II`](http://www.drewtech.com/customers/diagaftmkt.html)    
   ### PassThru Programnming
@@ -22,7 +42,9 @@ Vehicle Communication Interfaces
    #### Aftermarket
    #### OEM 
   ### PC Hardware
-  
+
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
 ## OEM Portals
 [`Alfa Romeo`](https://www.technicalinformation.fiat.com)
 [`BMW Group`](https://aos.bmwgroup.com/)
@@ -52,6 +74,8 @@ Vehicle Communication Interfaces
 [`Volvo Portal`](https://tis.volvocars.biz/tis/main.do)
 [`Volkswagen Portal`](https://erwin.volkswagen.de/erwin/showHome.do)
 
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
 
 ## Software
   ### Drivers  
@@ -65,7 +89,9 @@ Vehicle Communication Interfaces
   [`DLL Discovery	Sample registry code for PassThru DLL Discovery`](http://www.drewtech.com/downloads/dllconnect.zip)      
  [`DT Tech2Win Driver 32-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x86.msi)      
  [`DT Tech2Win Driver 64-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x64.msi)      
-   
+
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
   ### Diagnostic
    #### OEM Software Paid 
    ![image](https://user-images.githubusercontent.com/57064943/160247583-dfb5eb54-70f2-415b-810b-6da187de90cc.png)[`Ford IDS, FDRS`](https://www.fordtechservice.dealerconnection.com/vdirs/wds/diagnosticsites/vcmdvd/mcs/idssoftware.asp)      
@@ -84,14 +110,22 @@ Vehicle Communication Interfaces
    [`Tractor Hacking - Polycan`](https://github.com/TractorHacking/PolyCAN)      
    [`RND-ASH - openvehicledialog`](https://github.com/rnd-ash/OpenVehicleDiag)      
    
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
    
          
   ### Tuning Software
+
+<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+
    #### Verified & Supported Softwares  
    [![image](https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png)` — PCM Tuning Technology`](https://pcmtec.com)  
    [`Versatuner`](https://versatuner.com) - Mazda Tuning software for specific models  
    [`HP Tuners`](https://hptuners.com) - Generic Tuning software  
-     
+
+<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+
    #### Open Source    
    [`PQ Flasher`](https://github.com/pd0wm/pq-flasher)      
    [`MSS6x Flasher`](https://github.com/terraphantm/MSS6x-Flasher)     
@@ -103,9 +137,15 @@ Vehicle Communication Interfaces
    [`NisROM Tuning Suite`](https://github.com/ababook/NisROM-Tuning-Suite)      
    [`Ferrari Me7 ROM tool`]()  
 
+<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+
    #### Generic Tuning Software    
    [`OpenSCT - Reverse Engineering SCT Flash Tools`](https://github.com/Alexia/opensct)    
-   
+
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
+
   ### PassThru  
   ### ELM/OBD Software   
   [`DDT4ALL`](https://github.com/cedricp/ddt4all)         
@@ -113,7 +153,11 @@ Vehicle Communication Interfaces
   [`Nissboard - Nissan Consult/OBDII Realtime Dashboard`](https://github.com/matiasmenares/Nissboard)    
   [`SpeckMobil - Experimental VW/Audi specific diagnostic software for ELM327`](https://github.com/Boromatic/SpeckMobil)    
  
-  
+
+
+![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+
+
   ### Firmware  
   [`Honda-CL7-CL9-Odometer-Program`](https://github.com/bmgjet/Honda-CL7-CL9-Odometer-Program)    
   [`VBF Decoder`](https://github.com/consp/vbfdecode)    
@@ -125,11 +169,15 @@ Vehicle Communication Interfaces
   [`LS1 Checksum Correction`](https://github.com/jcmnn/LS1ChecksumCorrect)    
   
 
+<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
   
   ## Open Source Libraries
    ### Windows
    ### Linux
    ### MacOS
+
+<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
    
   ## News, Alerts, Information
   
@@ -141,3 +189,7 @@ https://boschdiagnostics.com/j2534-faq
 https://www.snapon.com/EN/US/Diagnostics/Diagnostics-Tools/Pass-Thru/OEM-Links-PTP-IV
 https://www.boschaftermarket.com/xrm/media/images/equipment/ecu_diagnose/euro5/pdf/general_information_passthru.pdf
 https://www.boschaftermarket.com/xrm/media/images/equipment/ecu_diagnose/euro5/pdf/passthru_how_to_reprogramm.pdf
+
+
+<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
