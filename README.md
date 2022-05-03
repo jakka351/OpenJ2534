@@ -1,10 +1,9 @@
 ![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
-
 ![image](https://user-images.githubusercontent.com/57064943/166444769-f7ef9aa5-df8b-4dcd-b668-a380eeda444b.png)
 
    <sup>Open (and Closed) Source J2534 Resources for Diagnostics, Reprogramming & Tuning</sup>
    
-![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
  
 <img src="https://user-images.githubusercontent.com/57064943/166475934-eedf7dcb-8288-42bc-9171-aa53cf76c05f.png" align="right" />
 
@@ -38,48 +37,75 @@
    
    ### Open Source
    #### Firmware
-   #### 
+
+![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+
+<img src="https://user-images.githubusercontent.com/57064943/166506037-a9bc622c-e47f-4263-9ea4-74e6f24acc99.png" align="right"  height="20%" width="20%"/>
+
+## SAE J2534
+
+   #### API
+   #### Libraries
+
+![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+
+   ### PassThru 
+   ### Right to Repair 
+   ### Hardware
+   ##### Minimum Requirements
+   ##### Vehicle Communication Interfaces
+   ##### 
    
+   ### Software
+   #### Passthru
+   #### Diagnostic
+   #### Reprogramming
+   #### Tuning
    
+   ### Open Source
+   #### Firmware
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
+## OEM Portals
+[`Alfa Romeo`](https://www.technicalinformation.fiat.com)  
+[`BMW Group`](https://aos.bmwgroup.com/)  
+[`Peugot`](http://public.servicebox.peugeot.com/pages/index.jsp)  
+[`Chrysler Portal`](http://www.techauthority.com)  
+[`Citroen`](http://service.citroen.com/pages/index.jsp)  
+[`Fiat Portal`](https://www.technicalinformation.fiat.com)  
+[`Ford Portal`](https://www.fordserviceinfo.com)   
+[`Honda Portal`](http://www.techinfo.honda-eu.com/)  
+[`Hyundai Portal`](http://service.hyundai-motor.co)  
+[`Jaguar Portal`](http://www.jaguartechinfo.com")  
+[`Kia Portal`](http://www.kia-hotline.com/)  
+[`Jaguar Land Rover`](https://topix.landrover.jlrext.com/topix/vehicle/lookupForm)  
+[`Lexus Portal`](https://www.lexus-tech.eu/default.aspx)  
+[`Mazda Europe Portal`](https://mapps.mazdaeur.com/mum)  
+[`Daimler Chrysler Portal`](https://xentry-shop.mercedes-benz.com/daimlerDiagnosisShop/home?0)  
+[`Mitsubishi Europe Portal`](http://www.mitsubishitechinfo.eu)  
+[`Nissan Portal`](https://eu.nissan.biz/auth/Login?GAREASONCODE=-1&GARESOURCEID=DHJEW4885903&GAURI=http://eu.nissan.biz/&Reason=-1&APPID=DHJEW4885903&URI=http://eu.nissan.biz/)  
+[`Porsche Portal`](https://techinfo2.porsche.com/PAGInfosystem/VFModuleManager?Type=GVOStart)    
+[`Renault Portal`](http://www.infotech.renault.com/fo/accueil.action)  
+[`Saab Portal`](https://tis.saabparts.com/)  
+[`Seat portal`](https://erwin.seat.com)  
+[`Skoda Portal`](https://erwin.skoda-auto.cz/erwin/showHome.do)  
+[`Smart Portal`](http://www.service-and-parts.net)  
+[`Suzuki Portal`](http://serviceportal.suzuki.de/suzuki/viewStart.do;jsessionid=8C664188776F89C7D1BFC711982C3A3C)  
+[`Toyota Europe Portal`](https://www.toyota-tech.eu/)  
+[`Volvo Portal`](https://tis.volvocars.biz/tis/main.do)  
+[`Volkswagen Portal`](https://erwin.volkswagen.de/erwin/showHome.do)  
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
+
    
 Vehicle Communication Interfaces  
 [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
 [`Tactrix Openport 2.0`](https://www.tactrix.com/)  
 
 
-![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
-
-## OEM Portals
-[`Alfa Romeo`](https://www.technicalinformation.fiat.com)
-[`BMW Group`](https://aos.bmwgroup.com/)
-[`Peugot`](http://public.servicebox.peugeot.com/pages/index.jsp)
-[`Chrysler Portal`](http://www.techauthority.com)
-[`Citroen`](http://service.citroen.com/pages/index.jsp)
-[`Fiat Portal`](https://www.technicalinformation.fiat.com)
-[`Ford Portal`](https://www.fordserviceinfo.com)
-[`Honda Portal`](http://www.techinfo.honda-eu.com/)
-[`Hyundai Portal`](http://service.hyundai-motor.co)
-[`Jaguar Portal`](http://www.jaguartechinfo.com")
-[`Kia Portal`](http://www.kia-hotline.com/)
-[`Jaguar Land Rover`](https://topix.landrover.jlrext.com/topix/vehicle/lookupForm)
-[`Lexus Portal`](https://www.lexus-tech.eu/default.aspx)
-[`Mazda Europe Portal`](https://mapps.mazdaeur.com/mum)
-[`Daimler Chrysler Portal`](https://xentry-shop.mercedes-benz.com/daimlerDiagnosisShop/home?0)
-[`Mitsubishi Europe Portal`](http://www.mitsubishitechinfo.eu)
-[`Nissan Portal`](https://eu.nissan.biz/auth/Login?GAREASONCODE=-1&GARESOURCEID=DHJEW4885903&GAURI=http://eu.nissan.biz/&Reason=-1&APPID=DHJEW4885903&URI=http://eu.nissan.biz/)
-[`Porsche Portal`](https://techinfo2.porsche.com/PAGInfosystem/VFModuleManager?Type=GVOStart)
-[`Renault Portal`](http://www.infotech.renault.com/fo/accueil.action)
-[`Saab Portal`](https://tis.saabparts.com/)
-[`Seat portal`](https://erwin.seat.com)
-[`Skoda Portal`](https://erwin.skoda-auto.cz/erwin/showHome.do)
-[`Smart Portal`](http://www.service-and-parts.net)
-[`Suzuki Portal`](http://serviceportal.suzuki.de/suzuki/viewStart.do;jsessionid=8C664188776F89C7D1BFC711982C3A3C)
-[`Toyota Europe Portal`](https://www.toyota-tech.eu/)
-[`Volvo Portal`](https://tis.volvocars.biz/tis/main.do)
-[`Volkswagen Portal`](https://erwin.volkswagen.de/erwin/showHome.do)
-
-![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
-
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
 ## Software
   ### Drivers  
@@ -94,7 +120,7 @@ Vehicle Communication Interfaces
  [`DT Tech2Win Driver 32-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x86.msi)      
  [`DT Tech2Win Driver 64-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x64.msi)      
 
-![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
   ### Diagnostic
    #### OEM Software Paid 
@@ -114,7 +140,7 @@ Vehicle Communication Interfaces
    [`Tractor Hacking - Polycan`](https://github.com/TractorHacking/PolyCAN)      
    [`RND-ASH - openvehicledialog`](https://github.com/rnd-ash/OpenVehicleDiag)      
    
-![image](https://user-images.githubusercontent.com/57064943/163714778-8598c24a-6ae2-49f6-ba4c-42de94dfa025.png)
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    
          
   ### Tuning Software
@@ -200,10 +226,11 @@ https://www.boschaftermarket.com/xrm/media/images/equipment/ecu_diagnose/euro5/p
 
 
 <img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
 ![image](https://user-images.githubusercontent.com/57064943/166512062-e92d9117-3d84-4a61-862a-7c09f6917934.png)
 ![image](https://user-images.githubusercontent.com/57064943/166514994-4a149c3b-8088-4b0e-a6a8-4c0215fbfb2c.png)
  
 ![image](https://user-images.githubusercontent.com/57064943/166508948-aa87c275-fa71-4dac-89bf-e5a76e4d37f8.png)
 
-![image](https://user-images.githubusercontent.com/57064943/166506037-a9bc622c-e47f-4263-9ea4-74e6f24acc99.png)
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
