@@ -27,8 +27,57 @@
    ### Hardware
    ##### Minimum Requirements
    ##### Vehicle Communication Interfaces
+   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+   
+[`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
+[`Tactrix Openport 2.0`](https://www.tactrix.com/)  
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
    #####   
-   ### Software
+   ### Software  
+Each OEM is required to make available their ECU Reprogramming Application software on their own service information web sites. If ECU Reprogramming is practiced in the dealership, then it is the responsibility of each OEM to maintain and update their own sites, and keep current applications available for download. 
+  
+#### OEM Portals:
+
+<sup>
+
+Original Equipment Manufacturer Web Portals  | URL | 
+---------|---------|  
+[`Alfa Romeo`](https://www.technicalinformation.fiat.com)  |  |  
+[`BMW Group`](https://aos.bmwgroup.com/)  |  |  
+[`Peugot`](http://public.servicebox.peugeot.com/pages/index.jsp) |  |     
+[`Chrysler Portal`](http://www.techauthority.com)  |  |  
+[`Citroen`](http://service.citroen.com/pages/index.jsp) |  |   
+[`Fiat Portal`](https://www.technicalinformation.fiat.com) |  |    
+[`Ford Portal`](https://www.fordserviceinfo.com)   |  |  
+[`Honda Portal`](http://www.techinfo.honda-eu.com/) |    |  
+[`Hyundai Portal`](http://service.hyundai-motor.co)  |  |  
+[`Jaguar Portal`](http://www.jaguartechinfo.com")  |  |  
+[`Kia Portal`](http://www.kia-hotline.com/)  |  |  
+[`Jaguar Land Rover`](https://topix.landrover.jlrext.com/topix/vehicle/lookupForm)  |  |    
+[`Lexus Portal`](https://www.lexus-tech.eu/default.aspx)  |  |  
+[`Mazda Europe Portal`](https://mapps.mazdaeur.com/mum)  |   |  
+[`Daimler Chrysler Portal`](https://xentry-shop.mercedes-benz.com/daimlerDiagnosisShop/home?0)  |  |  
+[`Mitsubishi Europe Portal`](http://www.mitsubishitechinfo.eu)  |  |  
+[`Nissan Portal`](https://eu.nissan.biz/auth/Login?GAREASONCODE=-1&GARESOURCEID=DHJEW4885903&GAURI=http://eu.nissan.biz/&Reason=-1&APPID=DHJEW4885903&URI=http://eu.nissan.biz/)  |  |  
+[`Porsche Portal`](https://techinfo2.porsche.com/PAGInfosystem/VFModuleManager?Type=GVOStart)    |  |  
+[`Renault Portal`](http://www.infotech.renault.com/fo/accueil.action)  |  |  
+[`Saab Portal`](https://tis.saabparts.com/)  |  |  
+[`Seat portal`](https://erwin.seat.com)  |  |  
+[`Skoda Portal`](https://erwin.skoda-auto.cz/erwin/showHome.do) |  |    
+[`Smart Portal`](http://www.service-and-parts.net)  |  |  
+[`Suzuki Portal`](http://serviceportal.suzuki.de/suzuki/viewStart.do;jsessionid=8C664188776F89C7D1BFC711982C3A3C) |  |    
+[`Toyota Europe Portal`](https://www.toyota-tech.eu/)  |   |  
+[`Volvo Portal`](https://tis.volvocars.biz/tis/main.do)  |  |  
+[`Volkswagen Portal`](https://erwin.volkswagen.de/erwin/showHome.do)  |  |    
+
+  
+  </sup>
+    
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
    #### Passthru
    #### Diagnostic
    #### Reprogramming
@@ -80,43 +129,10 @@
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
-## OEM Portals
-[`Alfa Romeo`](https://www.technicalinformation.fiat.com)  
-[`BMW Group`](https://aos.bmwgroup.com/)  
-[`Peugot`](http://public.servicebox.peugeot.com/pages/index.jsp)  
-[`Chrysler Portal`](http://www.techauthority.com)  
-[`Citroen`](http://service.citroen.com/pages/index.jsp)  
-[`Fiat Portal`](https://www.technicalinformation.fiat.com)  
-[`Ford Portal`](https://www.fordserviceinfo.com)   
-[`Honda Portal`](http://www.techinfo.honda-eu.com/)  
-[`Hyundai Portal`](http://service.hyundai-motor.co)  
-[`Jaguar Portal`](http://www.jaguartechinfo.com")  
-[`Kia Portal`](http://www.kia-hotline.com/)  
-[`Jaguar Land Rover`](https://topix.landrover.jlrext.com/topix/vehicle/lookupForm)  
-[`Lexus Portal`](https://www.lexus-tech.eu/default.aspx)  
-[`Mazda Europe Portal`](https://mapps.mazdaeur.com/mum)  
-[`Daimler Chrysler Portal`](https://xentry-shop.mercedes-benz.com/daimlerDiagnosisShop/home?0)  
-[`Mitsubishi Europe Portal`](http://www.mitsubishitechinfo.eu)  
-[`Nissan Portal`](https://eu.nissan.biz/auth/Login?GAREASONCODE=-1&GARESOURCEID=DHJEW4885903&GAURI=http://eu.nissan.biz/&Reason=-1&APPID=DHJEW4885903&URI=http://eu.nissan.biz/)  
-[`Porsche Portal`](https://techinfo2.porsche.com/PAGInfosystem/VFModuleManager?Type=GVOStart)    
-[`Renault Portal`](http://www.infotech.renault.com/fo/accueil.action)  
-[`Saab Portal`](https://tis.saabparts.com/)  
-[`Seat portal`](https://erwin.seat.com)  
-[`Skoda Portal`](https://erwin.skoda-auto.cz/erwin/showHome.do)  
-[`Smart Portal`](http://www.service-and-parts.net)  
-[`Suzuki Portal`](http://serviceportal.suzuki.de/suzuki/viewStart.do;jsessionid=8C664188776F89C7D1BFC711982C3A3C)  
-[`Toyota Europe Portal`](https://www.toyota-tech.eu/)  
-[`Volvo Portal`](https://tis.volvocars.biz/tis/main.do)  
-[`Volkswagen Portal`](https://erwin.volkswagen.de/erwin/showHome.do)  
-
-![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
-
-
    
 Vehicle Communication Interfaces  
 [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
 [`Tactrix Openport 2.0`](https://www.tactrix.com/)  
-
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
