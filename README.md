@@ -14,24 +14,8 @@
    </sup>
 </p>
 
-## Table of Contents
-
-   
- ### [Header]()
-   ### SAE J2534
-   - ##### API
-   - ##### Libraries
-
-   ### PassThru 
-   ### Right to Repair 
-   ### Hardware
-   ##### Minimum Requirements
-   ##### Vehicle Communication Interfaces
-   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
-   
-[`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
-[`Tactrix Openport 2.0`](https://www.tactrix.com/)  
-
+## Table of Contents 
+ 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
    #####   
