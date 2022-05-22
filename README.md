@@ -96,26 +96,6 @@ Original Equipment Manufacturer Web Portals  | URL |
    
    </td><td>API
    #### Libraries
-
-![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
-
-   ### PassThru 
-   ### Right to Repair 
-   ### Hardware
-   ##### Minimum Requirements
-   ##### Vehicle Communication Interfaces
-   ##### 
-   
-   ### Software
-   #### Passthru
-   #### Diagnostic
-   #### Reprogramming
-   #### Tuning
-   #### Utilities  
-   [`J2534 Registry Tool`](https://github.com/keenanlaws/J2534-Registry-Info)  
-   #### Protocols
-   [`Python-LIN-Diagnostic-Tool`](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool)  
-   [`Keyword-Protocol-2000`](https://github.com/aster94/Keyword-Protocol-2000)  
    ### Open Source Libraries
    [`python-uds`](https://github.com/richClubb/python-uds)    
    [`KeenanLaws Python J2534 Interface`](https://github.com/keenanlaws/Python-J2534-Interface)    
@@ -124,11 +104,41 @@ Original Equipment Manufacturer Web Portals  | URL |
    [`Linux J2534`](https://github.com/NikolaKozina/j2534)  
    [`Sardine CAN open source J2534 arduino`](https://github.com/hackingvolvo/SardineCAN-Arduino)  
    [`dotnet J2534 Library`](https://github.com/beyerch/J2534DotNet)  
-   
+
+![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+
+   ### Software
+![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+ #### Drivers
+  [`Tactrix Openport J2534 dll`](https://www.tactrix.com/index.php?option=com_content&view=category&layout=blog&id=38&)  
+  [`Mongoose Pro J2534 Drivers`](http://www.drewtech.com/technician/products/mongoose.html)      
+  [`Bosch J2534 PassThru Software`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)  
+  [`Bosch Euro5 PassThru Downloads`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/ecu-diagnostic-tools/euro-5-passthru/)  
+  [`Bosch PassThru Version 2.30.1 For KTS 560 / 590 and KTS 960 / 980 / 995.`](http://download.esitronic.de/KTSdownload/kts-setups/Setup_Bosch_Passthru_v2.30.1.exe)  
+  [`Bosch PassThru Version 1.18.5 For KTS 530 / 540 / 570, KTS 840 / 870 / 890 and KTS 940 /970 / 990.`](http://download.esitronic.de/KTSdownload/kts-setups/Setup_Bosch_Passthru_v1.18.5.exe)    
+  [`RP1210	RP1210A DLL for use with existing Heavy Truck RP1210 applications for CarDAQ-Plus and CarDAQ-M only. TVIT driver above includes RP1210 drivers.`](http://www.drewtech.com/downloads/RP1210_v4.3.msi)      
+  [`DLL Discovery	Sample registry code for PassThru DLL Discovery`](http://www.drewtech.com/downloads/dllconnect.zip)      
+ [`DT Tech2Win Driver 32-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x86.msi)      
+ [`DT Tech2Win Driver 64-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x64.msi)      
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+   #### Passthru
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+   #### Diagnostic
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+   #### Reprogramming
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+   #### Tuning
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)     
+   #### Utilities  
+   [`J2534 Registry Tool`](https://github.com/keenanlaws/J2534-Registry-Info)  
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+   #### Protocols
+   [`Python-LIN-Diagnostic-Tool`](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool)  
+   [`Keyword-Protocol-2000`](https://github.com/aster94/Keyword-Protocol-2000)     
+   ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
    #### Firmware
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
-
    
 Vehicle Communication Interfaces  
 [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
