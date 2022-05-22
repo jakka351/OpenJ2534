@@ -62,8 +62,20 @@
    #### Diagnostic
    #### Reprogramming
    #### Tuning
+   #### Utilities  
+   [`J2534 Registry Tool`](https://github.com/keenanlaws/J2534-Registry-Info)  
+   #### Protocols
+   [`Python-LIN-Diagnostic-Tool`](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool)  
+   [`Keyword-Protocol-2000`](https://github.com/aster94/Keyword-Protocol-2000)  
+   ### Open Source Libraries
+   [`python-uds`](https://github.com/richClubb/python-uds)    
+   [`KeenanLaws Python J2534 Interface`](https://github.com/keenanlaws/Python-J2534-Interface)    
+   [`JoeFischetti's Python J2534 openport dll tester`](https://github.com/joeFischetti/python-j2534)  
+   [`python_j2534 by NPYK`](https://github.com/NPYK/python_j2534)    
+   [`Linux J2534`](https://github.com/NikolaKozina/j2534)  
+   [`Sardine CAN open source J2534 arduino`](https://github.com/hackingvolvo/SardineCAN-Arduino)  
+   [`dotnet J2534 Library`](https://github.com/beyerch/J2534DotNet)  
    
-   ### Open Source
    #### Firmware
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
@@ -130,9 +142,11 @@ Vehicle Communication Interfaces
    #### Aftermarket Paid  
    [`ESI-Tronic 2.0 Online`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/esitronic-diagnostic-software/esi-2-0-online/)    
 
-   #### Aftermarket Free 
    <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)     
    <IMG src="https://camo.githubusercontent.com/c3087133bc5593228778aacb47dd9c5ceccc927fef16a70adc01b5c44717ef0a/68747470733a2f2f666f727363616e2e6f72672f696d616765732f464f525363616e4c69746541707049636f6e526f756e64436f726e6572733134342e706e67" align="right" width="10%" height="10%" /> [`Forscan`](https://forscan.org)
+
+   #### Open Source Diagnostic  
+   [`PyVCDS`](https://github.com/baconwaifu/PyVCDS)  
    [`Mazda IDS python implementation`](https://github.com/diorcety/mazda3-ids)    
    [`Caesar Suite - Daimler Chrylser`](https://github.com/jglim/CaesarSuite)      
    [`Toyota Techinfo RAMN`](https://github.com/ToyotaInfoTech/RAMN)    
@@ -158,12 +172,13 @@ Vehicle Communication Interfaces
 
 
    #### Open Source  
-   [`Honda Flash Tool`](https://github.com/bouletmarc/HondaReflashTool). 
+   [`Honda Flash Tool`](https://github.com/bouletmarc/HondaReflashTool)   
    [`PQ Flasher`](https://github.com/pd0wm/pq-flasher)      
    [`MSS6x Flasher`](https://github.com/terraphantm/MSS6x-Flasher)     
    [`Volvo CEM Cracker`](https://github.com/vtl/volvo-cem-cracker)      
    [`Trionic Flasher`](https://github.com/mattiasclaesson/Trionic)    
    [`UnlockECU - JGLIM`](https://github.com/jglim/UnlockECU)      
+   [`Overboost`]  
    [`LibreTuner - Open source engine tuning software for Mazda platforms`](https://github.com/LibreTuner/LibreTuner)      
    [`PSA/Stellantis (Peugeot, Citroen, DS, Opel) Seed/Key Algorithm`](https://github.com/ludwig-v/psa-seedkey-algorithm)    
    [`NisROM Tuning Suite`](https://github.com/ababook/NisROM-Tuning-Suite)      
@@ -198,7 +213,9 @@ Vehicle Communication Interfaces
   [`UPA CAN Flash`](https://github.com/iliayar/UPA_CAN_FLASH)     
   [`UDS Diagnostic Tool for Flashing Bootloader`](https://github.com/ParkingVehicle/DiagnosticTool)   
   [`UDS Bootloader Tool`](https://github.com/SummerFalls/UDS_S32K144_Bootloader)    
-  [`LS1 Checksum Correction`](https://github.com/jcmnn/LS1ChecksumCorrect)    
+  [`LS1 Checksum Correction`](https://github.com/jcmnn/LS1ChecksumCorrect)   
+  [`Subaru Fob Rob`](https://github.com/rjmendez/subarufobrob)  
+ 
   
   
   ![image](https://user-images.githubusercontent.com/57064943/166476326-579da2fa-e819-4eab-98b7-a1bef3746807.png)
