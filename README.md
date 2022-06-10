@@ -186,8 +186,7 @@ Original Equipment Manufacturer Web Portals  | URL |
   
 <img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
    
-  ## News, Alerts, Information
-  
+  ## News, Alerts, Information  
 http://drewtech.com/downloads/#OtherSupportApplications
 http://www.drewtech.com/customers/diagaftmkt.html
 http://www.drewtech.com/support/passthru.html
@@ -197,6 +196,9 @@ https://www.snapon.com/EN/US/Diagnostics/Diagnostics-Tools/Pass-Thru/OEM-Links-P
 https://www.boschaftermarket.com/xrm/media/images/equipment/ecu_diagnose/euro5/pdf/general_information_passthru.pdf
 https://www.boschaftermarket.com/xrm/media/images/equipment/ecu_diagnose/euro5/pdf/passthru_how_to_reprogramm.pdf
 
+
+## [`Articles and items of interest`]
+  - [`jakka351 gets schooled on J2534 API`](https://github.com/linux-can/can-utils/issues/355)
 
 <img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
