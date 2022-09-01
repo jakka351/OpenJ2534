@@ -107,16 +107,17 @@ Original Equipment Manufacturer Web Portals  | URL |
    #### Nissan
    - Consult
    #### Mazda
-   -IDS
+   - IDS
    #### Toyota
    #### Mitsubishi
-   #### BMW
+   -  <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)     
+  #### BMW
    #### Jeep, Chrysler, Dodge
    
    ### Cross-Manufacturer
    [`ESI-Tronic 2.0 Online`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/esitronic-diagnostic-software/esi-2-0-online/)    
 
-   <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)     
+  
    <IMG src="https://camo.githubusercontent.com/c3087133bc5593228778aacb47dd9c5ceccc927fef16a70adc01b5c44717ef0a/68747470733a2f2f666f727363616e2e6f72672f696d616765732f464f525363616e4c69746541707049636f6e526f756e64436f726e6572733134342e706e67" align="right" width="10%" height="10%" /> [`Forscan`](https://forscan.org)
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
@@ -138,13 +139,16 @@ Original Equipment Manufacturer Web Portals  | URL |
   - [`SpeckMobil - Experimental VW/Audi specific diagnostic software for ELM327`](https://github.com/Boromatic/SpeckMobil)    
  
    ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+   
    ## Reprogramming & Tuning  
-<img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-   <img align="right" src="https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png" height="10%" width="10%" />[`PCMtec — PCM Tuning Technology`](https://pcmtec.com)  
-   [`Versatuner`](https://versatuner.com) - Mazda Tuning software for specific models  
-   [`HP Tuners`](https://hptuners.com) - Generic Tuning software  
-   [`Rom Raider`]()  
-   [`TunerPro`]()
+   
+ <img align="right" src="https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png" height="10%" width="10%" /> 
+ 
+   - [`PCMtec`](https://pcmtec.com)  
+   - [`Versatuner`](https://versatuner.com)    
+   - [`HP Tuners`](https://hptuners.com)   
+   - [`Rom Raider`](https://romraider.com)    
+   - [`TunerPro`](https://tunerpro.com)  
    
 <img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
