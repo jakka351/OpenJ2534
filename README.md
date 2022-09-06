@@ -123,6 +123,8 @@ Original Equipment Manufacturer Web Portals  | URL |
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    
    ## Open Source Diagnostic  
+   - [`ao.net j1939`](https://github.com/tinko26/ao.net) [`https://tinko26.github.io/ao.net/`](https://tinko26.github.io/ao.net/)
+   - [`ChryslerScanner`](https://github.com/laszlodaniel/ChryslerScanner)  
    - [`PyVCDS`](https://github.com/baconwaifu/PyVCDS)  
    - [`Mazda IDS python implementation`](https://github.com/diorcety/mazda3-ids)    
    - [`Caesar Suite - Daimler Chrylser`](https://github.com/jglim/CaesarSuite)      
