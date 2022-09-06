@@ -133,6 +133,13 @@ Original Equipment Manufacturer Web Portals  | URL |
    - [`RND-ASH - Ecu Diagnostics Rust Crate`](https://github.com/rnd-ash/ecu_diagnostics)      
    - [`Tractor Hacking - Polycan`](https://github.com/TractorHacking/PolyCAN)      
    - [`RND-ASH - openvehicledialog`](https://github.com/rnd-ash/OpenVehicleDiag)      
+   - [`J1939 DTC Parser`](https://github.com/alperunlu/DTCparser)
+   - [`https://github.com/bryan-hunt/rp1210.Net`](https://github.com/bryan-hunt/rp1210.Net)  
+   - [`https://github.com/benkfra/j1939`](https://github.com/benkfra/j1939)  
+   - [`https://github.com/famez/J1939-Framework`](https://github.com/famez/J1939-Framework) 
+   - [``]()  
+   - [``]()  
+   
    
   ## ELM/OBD Software   
   - [`DDT4ALL`](https://github.com/cedricp/ddt4all)         
