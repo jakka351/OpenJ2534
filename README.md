@@ -14,7 +14,10 @@
    </sup>
 </p>
 
-## Table of Contents 
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
+## Need help with an Automotive Diagnostic issue or accessing Right to Repair OEM resources? Create a ticket at [`J2534.com.au`](https://j2534.com.au)  
  
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
