@@ -266,11 +266,6 @@ https://www.boschaftermarket.com/xrm/media/images/equipment/ecu_diagnose/euro5/p
   - [`jakka351 gets schooled on J2534 API`](https://github.com/linux-can/can-utils/issues/355)
 
 <img align="centre" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
-![image](https://user-images.githubusercontent.com/57064943/166512062-e92d9117-3d84-4a61-862a-7c09f6917934.png)
-![image](https://user-images.githubusercontent.com/57064943/166514994-4a149c3b-8088-4b0e-a6a8-4c0215fbfb2c.png)
- 
-![image](https://user-images.githubusercontent.com/57064943/166508948-aa87c275-fa71-4dac-89bf-e5a76e4d37f8.png)
 
-![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+![image](https://github.com/jakka351/FG-Falcon/assets/57064943/2c89821c-1ccc-4775-92b2-1f5cdf1de02b) ![image](https://github.com/jakka351/FG-Falcon/assets/57064943/2e2a5200-5c13-420d-99dc-9b3fc0c344f1)
