@@ -19,12 +19,11 @@
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
-![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
-
-   #####   
-   ## Software  
+## Software  
 Each OEM is required to make available their ECU Reprogramming Application software on their own service information web sites. If ECU Reprogramming is practiced in the dealership, then it is the responsibility of each OEM to maintain and update their own sites, and keep current applications available for download. 
-  
+
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 ### OEM Portals:
 
 <sup>
@@ -67,6 +66,8 @@ Original Equipment Manufacturer Web Portals  | URL |
    
 ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
 
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
 <img src="https://user-images.githubusercontent.com/57064943/166506037-a9bc622c-e47f-4263-9ea4-74e6f24acc99.png" align="right"  height="20%" width="20%"/>
 
 ## SAE J2534
@@ -83,8 +84,11 @@ Original Equipment Manufacturer Web Portals  | URL |
   
 ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
 
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    # Software  
 ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png) 
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
  ## Drivers  
   - [`Tactrix Openport J2534 dll`](https://www.tactrix.com/index.php?option=com_content&view=category&layout=blog&id=38&)    
   - [`Mongoose Pro J2534 Drivers`](http://www.drewtech.com/technician/products/mongoose.html)        
@@ -98,6 +102,9 @@ Original Equipment Manufacturer Web Portals  | URL |
  - [`DT Tech2Win Driver 64-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x64.msi)        
      
    ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
+
+   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png
+   
    ## Diagnostic Software by Vehicle Manufacturer
    #### Ford
    - <IMG src="https://user-images.githubusercontent.com/57064943/160247583-dfb5eb54-70f2-415b-810b-6da187de90cc.png" align="right" /> [`IDS`](https://www.fordtechservice.dealerconnection.com/vdirs/wds/diagnosticsites/vcmdvd/mcs/idssoftware.asp)   
@@ -116,6 +123,9 @@ Original Equipment Manufacturer Web Portals  | URL |
    -  <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)     
   #### BMW
    #### Jeep, Chrysler, Dodge
+
+
+![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    
    ### Cross-Manufacturer
    [`ESI-Tronic 2.0 Online`](https://www.boschaftermarket.com/gb/en/diagnostics/ecu-diagnosis/esitronic-diagnostic-software/esi-2-0-online/)    
@@ -124,6 +134,9 @@ Original Equipment Manufacturer Web Portals  | URL |
    <IMG src="https://camo.githubusercontent.com/c3087133bc5593228778aacb47dd9c5ceccc927fef16a70adc01b5c44717ef0a/68747470733a2f2f666f727363616e2e6f72672f696d616765732f464f525363616e4c69746541707049636f6e526f756e64436f726e6572733134342e706e67" align="right" width="10%" height="10%" /> [`Forscan`](https://forscan.org)
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
+
+
+   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    
    ## Open Source Diagnostic  
    - [`ao.net j1939`](https://github.com/tinko26/ao.net) [`https://tinko26.github.io/ao.net/`](https://tinko26.github.io/ao.net/)
@@ -176,7 +189,7 @@ Original Equipment Manufacturer Web Portals  | URL |
    - [``]()  
    
    
-   
+   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
   ## ELM/OBD Software   
   - [`DDT4ALL`](https://github.com/cedricp/ddt4all)         
   - [`ExpressOBD`](https://github.com/jglim/ExpressOBD)    
@@ -184,7 +197,8 @@ Original Equipment Manufacturer Web Portals  | URL |
   - [`SpeckMobil - Experimental VW/Audi specific diagnostic software for ELM327`](https://github.com/Boromatic/SpeckMobil)    
  
    ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
-   
+
+   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    ## Reprogramming & Tuning  
    
  <img align="right" src="https://user-images.githubusercontent.com/57064943/160247672-f3568ee7-4d7b-428d-b914-4894a178538a.png" height="10%" width="10%" /> 
