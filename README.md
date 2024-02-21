@@ -3,8 +3,7 @@
   <a href="https://testerpresent.com.au/"><img src="https://img.shields.io/badge/Tester Present -Specialist Automotive Solutions-blue" /></a>    
  <sup>Open (and Closed) Source J2534 Resources for Diagnostics, Reprogramming & Tuning</sup>
 
-![Uploading image.png…]()
-
+![image](https://github.com/jakka351/OpenJ2534/assets/57064943/d7fd8b9d-07d6-46fb-a249-773ad1ed46f7)
 
 <img src="https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png"/>
 
