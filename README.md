@@ -38,6 +38,7 @@ Original Equipment Manufacturer Web Portals  | URL |
 [`Citroen`](http://service.citroen.com/pages/index.jsp) |  |   
 [`Fiat Portal`](https://www.technicalinformation.fiat.com) |  |    
 [`Ford Portal`](https://www.fordserviceinfo.com)   |  |  
+[`GM Portal`](https://www.acdelcotds.com)   |  |  
 [`Honda Portal`](http://www.techinfo.honda-eu.com/) |    |  
 [`Hyundai Portal`](http://service.hyundai-motor.co)  |  |  
 [`Jaguar Portal`](http://www.jaguartechinfo.com")  |  |  
@@ -101,10 +102,11 @@ Original Equipment Manufacturer Web Portals  | URL |
   - [`DLL Discovery	Sample registry code for PassThru DLL Discovery`](http://www.drewtech.com/downloads/dllconnect.zip)        
  - [`DT Tech2Win Driver 32-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x86.msi)        
  - [`DT Tech2Win Driver 64-Bit	Tech2Win Driver for Drew Technologies devices. Uninstall old driver first.`](http://drivers.drewtech.com/DRIVERS/Tech2Win/DTTech2WinDriver_x64.msi)        
-     
+  - [`Allscanner VXdiag VCX Drivers`](https://www.vxdiagshop.com/info/download/)
+
    ![image](https://user-images.githubusercontent.com/57064943/166515319-c82ae6c8-f252-46ad-a624-57331674d0cc.png)
 
-   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png
+   ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
    
    ## Diagnostic Software by Vehicle Manufacturer
    #### Ford
@@ -115,6 +117,9 @@ Original Equipment Manufacturer Web Portals  | URL |
    #### Jaguar, Land Rover
    - SDD
    #### General Motors
+   - [Global Diagnostic System 2 (GDS2)](https://www.acdelcotds.com/subscriptions) - Diagnostics for model year 2014+ vehicles (and [select model year 2007-2013 vehicles](https://www.gmparts.com/content/dam/gmparts/na/us/en/index/technical-resources/diagnostic-support-resources/02-pdfs/gds2-scan-tool-sheet.pdf))
+   - [Tech2Win](https://www.acdelcotds.com/subscriptions) - Diagnostics for earlier vehicles
+   - [SPS2](https://www.acdelcotds.com/subscriptions) - ECU reprogramming and firmware updates
    #### Nissan
    - Consult
    #### Mazda
@@ -342,6 +347,7 @@ Original Equipment Manufacturer Web Portals  | URL |
    ## Vehicle Communication Interfaces  
    [`Drewtech Mongoose Pro`](http://www.drewtech.com/technician/products/mongoose.html)  
    [`Tactrix Openport 2.0`](https://www.tactrix.com/)  
+   [`Allscanner VXdiag VCX`](https://www.vxdiagshop.com/) ([Docs](http://wiki.allscanner.com/))
 
    ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
 
