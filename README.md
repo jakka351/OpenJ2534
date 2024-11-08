@@ -128,7 +128,8 @@ Original Equipment Manufacturer Web Portals  | URL |
    - IDS
    #### Toyota
    #### Mitsubishi
-   -  <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)     
+   -  <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MMCCodingWriter`](https://forum.kolyandex.su/viewtopic.php?f=15&t=3)
+   -  <IMG src="https://user-images.githubusercontent.com/57064943/160247397-118620dd-bba4-4443-ae05-191846291a1e.png" align="right"/>[`MUT3 SE`](https://mitsubishitechinfo.com/epacarb/MUT3SEMANUAL.pdf)
   #### BMW
    #### Jeep, Chrysler, Dodge
 
