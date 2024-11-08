@@ -82,7 +82,7 @@ Original Equipment Manufacturer Web Portals  | URL |
    - [`KeenanLaws Python J2534 Interface`](https://github.com/keenanlaws/Python-J2534-Interface)    
    - [`JoeFischetti's Python J2534 openport dll tester`](https://github.com/joeFischetti/python-j2534)    
    - [`python_j2534 by NPYK`](https://github.com/NPYK/python_j2534)      
-   - [`Linux J2534`](https://github.com/NikolaKozina/j2534)    
+   - [`Linux/Windows Tactrix Openport 2.0 J2534 driver`](https://github.com/james-portman/j2534)    
    - [`Sardine CAN open source J2534 arduino`](https://github.com/hackingvolvo/SardineCAN-Arduino)    
    - [`dotnet J2534 Library`](https://github.com/beyerch/J2534DotNet)    
   
