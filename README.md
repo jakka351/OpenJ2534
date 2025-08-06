@@ -1,9 +1,14 @@
-## Do you have an Automotive, Software or Technical issue you need help with? <a href="https://testerpresent.com.au">Contact Tester Present</a>
+<a href="https://testerpresent.com.au/">
+<img width="1326" height="201" alt="image" src="https://github.com/user-attachments/assets/d6519415-9430-4fa9-aedf-41249296c096" />
+</a>
+
+
+#### Do you have an Automotive, Software or Technical issue you need help with? <a href="https://testerpresent.com.au">Contact Tester Present</a>
 
 ![image](https://user-images.githubusercontent.com/57064943/166515400-eef1a783-1a65-4541-affb-5542e0bb3157.png)
  ![image](https://user-images.githubusercontent.com/57064943/166444769-f7ef9aa5-df8b-4dcd-b668-a380eeda444b.png)
-  <a href="https://testerpresent.com.au/"><img src="https://img.shields.io/badge/Tester Present -Specialist Automotive Solutions-blue" /></a>    
- <sup>Open (and Closed) Source J2534 Resources for Diagnostics, Reprogramming & Tuning</sup>
+  
+  <sup>Open (and Closed) Source J2534 Resources for Diagnostics, Reprogramming & Tuning</sup>
 
 ![image](https://github.com/jakka351/OpenJ2534/assets/57064943/d7fd8b9d-07d6-46fb-a249-773ad1ed46f7)
 
